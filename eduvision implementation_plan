@@ -1,0 +1,269 @@
+# EduVision AI — Implementation Plan
+
+## Overview
+
+EduVision AI is a **multi-role intelligent academic platform** designed for universities. It serves three distinct user types — **Students**, **Teachers**, and **Authorities** (VC/Dean/Department Head) — each with their own entry flow, dashboard, and AI-driven analytics. This plan covers the full implementation from project setup to all four modules.
+
+The stack is **Next.js 14 (App Router) + Tailwind CSS + Recharts** per the spec requirements. All data is static/dummy JSON at this stage, structured for easy API replacement later.
+
+---
+
+## Architecture Overview
+
+```
+/EduVision-AI (Next.js App)
+├── app/
+│   ├── page.tsx                        ← Splash Screen (auto-redirects)
+│   ├── role-selection/page.tsx         ← Role selection cards
+│   ├── login/
+│   │   ├── student/page.tsx
+│   │   ├── teacher/page.tsx
+│   │   └── authority/page.tsx
+│   ├── dashboard/
+│   │   ├── student/page.tsx            ← Student main dashboard
+│   │   ├── teacher/page.tsx            ← Teacher main dashboard
+│   │   └── authority/page.tsx          ← Authority main dashboard
+│   ├── student/
+│   │   ├── academic/page.tsx
+│   │   ├── extracurricular/page.tsx
+│   │   ├── skills/page.tsx
+│   │   ├── ai-advisor/page.tsx
+│   │   ├── alerts/page.tsx
+│   │   ├── peer-benchmark/page.tsx
+│   │   ├── mentor/page.tsx
+│   │   └── profile/page.tsx
+│   ├── teacher/
+│   │   ├── courses/page.tsx
+│   │   ├── students/page.tsx
+│   │   ├── at-risk/page.tsx
+│   │   ├── course-analytics/page.tsx
+│   │   ├── ai-advisor/page.tsx
+│   │   ├── mentorship/page.tsx
+│   │   ├── skill-gap/page.tsx
+│   │   ├── alerts/page.tsx
+│   │   └── profile/page.tsx
+│   └── authority/
+│       ├── departments/page.tsx
+│       ├── department-comparison/page.tsx
+│       ├── teachers/page.tsx
+│       ├── student-insights/page.tsx
+│       ├── institutional-alerts/page.tsx
+│       ├── ai-strategic-advisor/page.tsx
+│       ├── course-health/page.tsx
+│       ├── skill-overview/page.tsx
+│       ├── reports/page.tsx
+│       └── profile/page.tsx
+├── components/
+│   ├── layout/
+│   │   ├── StudentSidebar.tsx
+│   │   ├── TeacherSidebar.tsx
+│   │   ├── AuthoritySidebar.tsx
+│   │   └── TopNavbar.tsx
+│   ├── ui/
+│   │   ├── StatCard.tsx
+│   │   ├── AlertBadge.tsx
+│   │   ├── RoleCard.tsx
+│   │   └── ...
+│   └── charts/
+│       ├── RadarChart.tsx
+│       ├── BarChart.tsx
+│       ├── LineChart.tsx
+│       └── ...
+├── data/
+│   ├── student.json
+│   ├── teacher.json
+│   ├── authority.json
+│   ├── courses.json
+│   ├── departments.json
+│   └── ...
+├── utils/
+│   ├── aiEngine.ts          ← Rule-based AI logic
+│   └── helpers.ts
+├── context/
+│   └── AppContext.tsx       ← Global role/session state
+└── styles/
+    └── globals.css
+```
+
+---
+
+## Design System
+
+| Token | Value |
+|---|---|
+| Primary | `#6C63FF` (Indigo-violet) |
+| Secondary | `#22D3EE` (Cyan) |
+| Danger | `#F43F5E` (Rose) |
+| Warning | `#F59E0B` (Amber) |
+| Success | `#10B981` (Emerald) |
+| Background | `#0F0F1A` (Deep dark navy) |
+| Surface | `#1A1A2E` (Card dark) |
+| Surface-2 | `#16213E` |
+| Text-primary | `#F1F5F9` |
+| Text-muted | `#94A3B8` |
+
+Font: **Inter** (Google Fonts)
+
+Visual motifs: Glassmorphism cards, gradient accents, subtle grid backgrounds, smooth micro-animations.
+
+---
+
+## Proposed Changes
+
+### Phase 0 — Project Bootstrap
+
+#### [NEW] Next.js 14 Project Scaffold
+- Run `npx create-next-app@latest ./` with TypeScript, Tailwind, App Router
+- Install: `recharts`, `lucide-react`, `framer-motion`, `clsx`
+
+---
+
+### Phase 1 — Entry Flow
+
+#### [NEW] Splash Screen (`app/page.tsx`)
+- Animated EduVision AI logo with pulse/glow
+- 3-second auto-redirect to `/role-selection`
+- Dark background with particle/gradient animation
+
+#### [NEW] Role Selection (`app/role-selection/page.tsx`)
+- 3 glassmorphism cards: Student | Teacher | Authority
+- Icon + title + short description per card
+- Hover animation (lift + glow)
+- Click → saves role to context + localStorage → navigates to `/login/{role}`
+
+#### [NEW] Login Pages (×3)
+- Role-specific themed login form (different accent color per role)
+- Email + Password fields
+- Simulated auth (dummy credentials in JSON)
+- On success → redirects to `/dashboard/{role}`
+
+---
+
+### Phase 2 — Global Context & Layout
+
+#### [NEW] `context/AppContext.tsx`
+- Stores: `role`, `user`, `isAuthenticated`
+- Exposes `login()`, `logout()`, `setRole()`
+- Reads from `localStorage` for session persistence
+
+#### [NEW] Role-aware Layout Wrappers
+- Each dashboard group wrapped in its own layout with sidebar + top nav
+- Sidebar items differ per role
+- Sidebar collapses on mobile
+
+---
+
+### Phase 3 — Student Module (9 pages)
+
+#### [NEW] `data/student.json`
+Fields: profile, subjects (name, marks, attendance, assignments), extracurricular (clubs, events, roles), skills (radar scores), peers (class average, percentile), alerts, mentor recommendation.
+
+#### [NEW] AI Engine — Student (`utils/aiEngine.ts`)
+Rules:
+- `attendance < 75` → Low Attendance Alert
+- `subjectScore < 60` → Weak Subject
+- `communication < 60` → Suggest debate club
+- `leadership < 60` → Suggest leadership role
+- `gpa < 2.5` → Academic risk alert
+
+#### Pages:
+1. **`/dashboard/student`** — Overview cards (GPA, attendance, alerts), performance line chart, AI recommendations widget
+2. **`/student/academic`** — Subject table with marks/attendance, weak subject highlight, trend chart
+3. **`/student/extracurricular`** — Club cards, event participation, skill mapping
+4. **`/student/skills`** — Radar chart for 5 skills, strengths vs gaps analysis
+5. **`/student/ai-advisor`** — Personalized recommendation cards with priority badges
+6. **`/student/alerts`** — Alert list: problem + action + priority color
+7. **`/student/peer-benchmark`** — Bar chart: student vs class avg, percentile badge
+8. **`/student/mentor`** — Recommended teacher card with match reason
+9. **`/student/profile`** — Student info card
+
+---
+
+### Phase 4 — Teacher Module (9 pages)
+
+#### [NEW] `data/teacher.json`
+Fields: profile, courses (code, name, students, avg marks, attendance, risk), studentList (segmented by performance), alerts, AI suggestions, mentees, skill gap data.
+
+#### AI Rules — Teacher:
+- Many students score < 60 in same topic → suggest extra class
+- Course attendance < 75 → attendance warning
+- At-risk group > 30% → suggest mentoring session
+
+#### Pages:
+1. **`/dashboard/teacher`** — Course summary, at-risk count, class performance, alerts
+2. **`/teacher/courses`** — Course cards with risk level badge
+3. **`/teacher/students`** — Full student table with filter (High/Average/At-Risk)
+4. **`/teacher/at-risk`** — At-risk student cards with problem + suggestion
+5. **`/teacher/course-analytics`** — Per-course performance trends, topic weakness
+6. **`/teacher/ai-advisor`** — Teaching suggestion cards
+7. **`/teacher/mentorship`** — Assigned mentee cards with focus area
+8. **`/teacher/skill-gap`** — Class radar chart + individual student skill view
+9. **`/teacher/alerts`** — Priority alert list
+
+---
+
+### Phase 5 — Authority Module (10 pages)
+
+#### [NEW] `data/authority.json`
+Fields: profile (role: vc/dean/dept-head), university stats, departments array (name, students, GPA avg, attendance, at-risk, skills), teachers array, course health, skill overview, reports, strategic suggestions.
+
+#### AI Rules — Authority:
+- Dept avg GPA < 2.5 → department support alert
+- At-risk % > 30% → mentoring program suggestion
+- Communication avg < 60% → workshop suggestion
+- Attendance trend dropping → policy review suggestion
+
+#### Pages:
+1. **`/dashboard/authority`** — University KPI cards, dept performance chart, institutional alerts, strategic suggestions
+2. **`/authority/departments`** — Department cards with health indicators
+3. **`/authority/department-comparison`** — Multi-bar chart comparing departments across all metrics
+4. **`/authority/teachers`** — Teacher effectiveness table/cards
+5. **`/authority/student-insights`** — Population breakdown, common weak areas
+6. **`/authority/institutional-alerts`** — Institutional-level alert list
+7. **`/authority/ai-strategic-advisor`** — Strategic recommendation cards with expected impact
+8. **`/authority/course-health`** — Course/program health table with risk indicators
+9. **`/authority/skill-overview`** — University radar + dept-wise skill comparison
+10. **`/authority/reports`** — Report selector + UI-rendered summary
+
+---
+
+## Open Questions
+
+> [!IMPORTANT]
+> **Dummy Credentials** — Should each role have a single shared credential (e.g., `student@edu.ai / password123`) or multiple accounts per role? I'll default to one credential per role unless told otherwise.
+
+> [!IMPORTANT]
+> **Authority Sub-roles** — The spec mentions VC/Dean/Dept Head see different views. Should the single authority login determine which sub-role they get, or should there be a sub-role selector? I'll implement a single authority user that sees the full VC-level view by default.
+
+> [!NOTE]
+> **Charts Library** — The spec suggests Recharts (via React). I'll use Recharts for all charts (Line, Bar, Radar, Pie) for consistency.
+
+> [!NOTE]
+> **Mobile Responsiveness** — All dashboards will be responsive with a collapsible sidebar for mobile. Priority is desktop-first as this is a data-heavy analytics platform.
+
+---
+
+## Verification Plan
+
+### Automated
+- `npm run build` — confirm no TypeScript/build errors
+
+### Browser Validation
+- Navigate the complete entry flow: Splash → Role Selection → Login → Dashboard
+- Verify all sidebar links work for all 3 roles
+- Verify charts render with dummy data
+- Verify AI logic produces correct alerts/recommendations
+- Check mobile layout on 375px viewport
+
+---
+
+## Execution Order
+
+| # | Phase | Estimated Complexity |
+|---|---|---|
+| 0 | Project Bootstrap | Low |
+| 1 | Entry Flow (Splash + Role + Login) | Medium |
+| 2 | Global Context + Layouts | Medium |
+| 3 | Student Module | High |
+| 4 | Teacher Module | High |
+| 5 | Authority Module | High |
