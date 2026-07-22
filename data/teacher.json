@@ -1,0 +1,214 @@
+{
+  "profile": {
+    "id": "TCH-006",
+    "name": "Tamanna Akter",
+    "email": "tamanna@daffodilvarsity.edu.bd",
+    "role": "Teacher",
+    "department": "Computing and Information System",
+    "designation": "Lecturer",
+    "joinYear": 2020,
+    "expertise": ["Software Testing", "Project Management", "Web Engineering", "CIS Applications"],
+    "mentorshipAreas": ["Final Year Projects", "Career Pathways in IT", "Software Architecture"],
+    "avatar": "/images/teachers/tamanna.png"
+  },
+  "summary": {
+    "totalStudents": 145,
+    "totalCourses": 3,
+    "atRiskCount": 8,
+    "avgClassPerformance": 76,
+    "avgAttendance": 82
+  },
+  "courses": [
+    {
+      "id": "c1",
+      "code": "CIS303",
+      "name": "Database Management Systems",
+      "semester": "Fall 2024",
+      "totalStudents": 60,
+      "avgMarks": 78,
+      "avgAttendance": 85,
+      "assignmentCompletion": 92,
+      "riskLevel": "low",
+      "topicWeaknesses": ["Normalization", "Concurrency Control", "Transaction Management"]
+    },
+    {
+      "id": "c2",
+      "code": "CIS301",
+      "name": "System Analysis & Design",
+      "semester": "Fall 2024",
+      "totalStudents": 45,
+      "avgMarks": 68,
+      "avgAttendance": 78,
+      "assignmentCompletion": 80,
+      "riskLevel": "medium",
+      "topicWeaknesses": ["Use Case Modeling", "Data Flow Diagrams", "Object-Oriented Design"]
+    },
+    {
+      "id": "c3",
+      "code": "CIS201",
+      "name": "Information Systems & Applications",
+      "semester": "Fall 2024",
+      "totalStudents": 40,
+      "avgMarks": 82,
+      "avgAttendance": 90,
+      "assignmentCompletion": 95,
+      "riskLevel": "low",
+      "topicWeaknesses": ["ERP Core Modules", "Cloud Infrastructure Concepts"]
+    }
+  ],
+  "students": [
+    {
+      "id": "s1",
+      "roll": "CIS16010",
+      "name": "Joy kumar Yuv",
+      "course": "CIS303",
+      "marks": 92,
+      "attendance": 95,
+      "segment": "high",
+      "skills": {
+        "Communication": 88,
+        "Leadership": 92,
+        "Teamwork": 90,
+        "Critical Thinking": 95,
+        "Problem Solving": 98
+      }
+    },
+    {
+      "id": "s2",
+      "roll": "CS21046",
+      "name": "Mia Reynolds",
+      "course": "CIS301",
+      "marks": 55,
+      "attendance": 60,
+      "segment": "at-risk",
+      "skills": {
+        "Communication": 65,
+        "Leadership": 50,
+        "Teamwork": 70,
+        "Critical Thinking": 55,
+        "Problem Solving": 60
+      }
+    },
+    {
+      "id": "s3",
+      "roll": "CS21047",
+      "name": "Ethan Hunt",
+      "course": "CIS303",
+      "marks": 75,
+      "attendance": 80,
+      "segment": "average",
+      "skills": {
+        "Communication": 70,
+        "Leadership": 60,
+        "Teamwork": 75,
+        "Critical Thinking": 80,
+        "Problem Solving": 75
+      }
+    },
+    {
+      "id": "s4",
+      "roll": "CS21048",
+      "name": "Sophia Lee",
+      "course": "CIS201",
+      "marks": 88,
+      "attendance": 92,
+      "segment": "high",
+      "skills": {
+        "Communication": 80,
+        "Leadership": 85,
+        "Teamwork": 90,
+        "Critical Thinking": 85,
+        "Problem Solving": 88
+      }
+    },
+    {
+      "id": "s5",
+      "roll": "CS21049",
+      "name": "Liam Scott",
+      "course": "CIS301",
+      "marks": 45,
+      "attendance": 50,
+      "segment": "at-risk",
+      "skills": {
+        "Communication": 50,
+        "Leadership": 40,
+        "Teamwork": 60,
+        "Critical Thinking": 45,
+        "Problem Solving": 50
+      }
+    }
+  ],
+  "coursePerformanceTrend": [
+    { "week": "Week 1", "CIS303": 75, "CIS301": 65, "CIS201": 80 },
+    { "week": "Week 2", "CIS303": 76, "CIS301": 66, "CIS201": 82 },
+    { "week": "Week 3", "CIS303": 78, "CIS301": 68, "CIS201": 81 },
+    { "week": "Week 4", "CIS303": 75, "CIS301": 64, "CIS201": 83 },
+    { "week": "Week 5", "CIS303": 77, "CIS301": 67, "CIS201": 80 },
+    { "week": "Week 6", "CIS303": 78, "CIS301": 68, "CIS201": 82 }
+  ],
+  "alerts": [
+    {
+      "id": "a1",
+      "title": "Low Attendance Alert",
+      "detail": "Mia Reynolds has missed 3 consecutive classes in System Analysis & Design.",
+      "priority": "high",
+      "course": "CIS301",
+      "action": "Schedule a 1-on-1 meeting to discuss reasons for absence."
+    },
+    {
+      "id": "a2",
+      "title": "Topic Struggle Detected",
+      "detail": "45% of students scored below average on the Normalization quiz.",
+      "priority": "medium",
+      "course": "CIS303",
+      "action": "Conduct a review session on Normalization before the midterm."
+    },
+    {
+      "id": "a3",
+      "title": "Assignment Deadline Approaching",
+      "detail": "Information Systems Assignment 2 is due in 2 days. 30% of students haven't submitted.",
+      "priority": "low",
+      "course": "CIS201",
+      "action": "Send a reminder announcement to the class."
+    }
+  ],
+  "aiSuggestions": [
+    {
+      "id": "ai1",
+      "problem": "High failure risk in System Analysis (Data Flow Diagrams).",
+      "recommendation": "Introduce interactive modeling software tools for Data Flow Diagrams and provide more practice cases with step-by-step guidance.",
+      "priority": "high",
+      "course": "CIS301"
+    },
+    {
+      "id": "ai2",
+      "problem": "Declining engagement in Database Systems lectures.",
+      "recommendation": "Incorporate short, interactive queries or live console SQL debugging challenges to keep students active.",
+      "priority": "medium",
+      "course": "CIS303"
+    },
+    {
+      "id": "ai3",
+      "problem": "Inconsistent grading on system design briefs.",
+      "recommendation": "Review design scoring rubrics and utilize collaborative student review sessions to calibrate peer expectations.",
+      "priority": "low",
+      "course": "General"
+    }
+  ],
+  "mentees": [
+    {
+      "studentId": "CIS16010",
+      "studentName": "Joy kumar Yuv",
+      "weakArea": "Database Optimization & Indexing",
+      "matchReason": "Student struggles with complex query execution paths, aligning with your deep expertise in Database Management.",
+      "focusArea": "SQL query tuning and indexing strategies."
+    },
+    {
+      "studentId": "CS21051",
+      "studentName": "Emma Davis",
+      "weakArea": "System Documentation Structure",
+      "matchReason": "Student needs help structuring their final year ERP system design report.",
+      "focusArea": "Structuring flow diagrams and requirement specifications."
+    }
+  ]
+}

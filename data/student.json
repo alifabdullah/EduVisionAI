@@ -1,0 +1,85 @@
+{
+  "profile": {
+    "id": "261-16-010",
+    "name": "Joy kumar Yuv",
+    "email": "joy.yuv@edu.ai",
+    "department": "Computer Information Systems",
+    "semester": 6,
+    "batch": "2021",
+    "cgpa": 3.42,
+    "avatarInitials": "JY",
+    "roll": "CIS-21-010"
+  },
+  "academicSummary": {
+    "currentGPA": 3.42,
+    "attendanceAvg": 71,
+    "assignmentsCompleted": 18,
+    "assignmentsTotal": 22,
+    "creditsCompleted": 98,
+    "creditsTotal": 140
+  },
+  "subjects": [
+    { "name": "Data Structures", "code": "CSE301", "marks": 55, "attendance": 68, "assignments": { "done": 4, "total": 5 }, "grade": "C+" },
+    { "name": "Algorithms", "code": "CSE302", "marks": 72, "attendance": 80, "assignments": { "done": 5, "total": 5 }, "grade": "B+" },
+    { "name": "Database Systems", "code": "CSE303", "marks": 48, "attendance": 62, "assignments": { "done": 3, "total": 5 }, "grade": "C" },
+    { "name": "Computer Networks", "code": "CSE304", "marks": 78, "attendance": 85, "assignments": { "done": 5, "total": 5 }, "grade": "A-" },
+    { "name": "Software Engineering", "code": "CSE305", "marks": 82, "attendance": 90, "assignments": { "done": 6, "total": 6 }, "grade": "A" },
+    { "name": "Operating Systems", "code": "CSE306", "marks": 60, "attendance": 72, "assignments": { "done": 3, "total": 4 }, "grade": "B" }
+  ],
+  "performanceTrend": [
+    { "semester": "Sem 1", "gpa": 3.1 },
+    { "semester": "Sem 2", "gpa": 3.3 },
+    { "semester": "Sem 3", "gpa": 3.0 },
+    { "semester": "Sem 4", "gpa": 3.5 },
+    { "semester": "Sem 5", "gpa": 3.6 },
+    { "semester": "Sem 6", "gpa": 3.42 }
+  ],
+  "extracurricular": [
+    { "club": "Robotics Club", "role": "Member", "events": 4, "skills": ["Teamwork", "Problem Solving"] },
+    { "club": "Programming Contest Team", "role": "Member", "events": 3, "skills": ["Critical Thinking", "Problem Solving"] },
+    { "club": "Photography Club", "role": "Secretary", "events": 6, "skills": ["Leadership", "Communication"] }
+  ],
+  "skills": {
+    "Communication": 52,
+    "Leadership": 48,
+    "Teamwork": 75,
+    "Critical Thinking": 70,
+    "Problem Solving": 78
+  },
+  "peers": {
+    "classAvgGPA": 3.21,
+    "percentile": 68,
+    "rank": 14,
+    "totalStudents": 45,
+    "classSubjectAvgs": [
+      { "subject": "Data Structures", "classAvg": 61, "student": 55 },
+      { "subject": "Algorithms", "classAvg": 65, "student": 72 },
+      { "subject": "Database Systems", "classAvg": 58, "student": 48 },
+      { "subject": "Computer Networks", "classAvg": 70, "student": 78 },
+      { "subject": "Software Engineering", "classAvg": 74, "student": 82 },
+      { "subject": "Operating Systems", "classAvg": 63, "student": 60 }
+    ]
+  },
+  "mentorRecommendation": {
+    "teacherId": "TCH-005",
+    "teacherName": "Tamanna Akter",
+    "expertise": "Software Testing & Project Management",
+    "matchReason": "Matches your weak areas in Software Quality Assurance and project modeling",
+    "rating": 4.6,
+    "department": "Computing and Information System"
+  },
+  "alerts": [
+    { "id": 1, "type": "attendance", "title": "Low Attendance Warning", "message": "Your attendance in Database Systems is 62%, below the 75% minimum.", "priority": "high", "subject": "Database Systems" },
+    { "id": 2, "type": "attendance", "title": "Attendance Alert", "message": "Data Structures attendance is 68%, approaching critical threshold.", "priority": "medium", "subject": "Data Structures" },
+    { "id": 3, "type": "marks", "title": "Weak Subject Detected", "message": "Your score in Database Systems (48%) is below passing threshold.", "priority": "high", "subject": "Database Systems" },
+    { "id": 4, "type": "marks", "title": "Improvement Needed", "message": "Data Structures score of 55% needs improvement before finals.", "priority": "medium", "subject": "Data Structures" },
+    { "id": 5, "type": "skill", "title": "Skill Gap Detected", "message": "Communication and Leadership skills are below 55%.", "priority": "medium", "subject": null }
+  ],
+  "aiRecommendations": [
+    { "id": 1, "category": "Academic", "title": "Focus on Database Systems", "description": "Your score of 48% puts you at risk of failing. Schedule 3 focused study sessions per week and use practice question sets.", "priority": "high", "icon": "book" },
+    { "id": 2, "category": "Attendance", "title": "Regularize Attendance", "description": "Attend all remaining Database Systems classes to bring attendance above 75% before semester ends.", "priority": "high", "icon": "calendar" },
+    { "id": 3, "category": "Skill", "title": "Join Debate Society", "description": "Your communication score is 52%. Joining the debate club will help develop articulation and confidence.", "priority": "medium", "icon": "mic" },
+    { "id": 4, "category": "Skill", "title": "Take a Leadership Role", "description": "Leadership score is 48%. Consider volunteering as team lead in your next club project.", "priority": "medium", "icon": "users" },
+    { "id": 5, "category": "Academic", "title": "Book Mentor Session", "description": "Tamanna Akter has expertise in your weak areas. Request a mentoring session this week.", "priority": "low", "icon": "user-check" }
+  ]
+}

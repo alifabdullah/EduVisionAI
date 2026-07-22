@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "241-15-001",
+    "name": "Sabbir Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801758382108",
+    "email": "sabbir.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-002",
+    "name": "Sumaiya Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801578164172",
+    "email": "sumaiya.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-003",
+    "name": "Jannat Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801250351720",
+    "email": "jannat.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-004",
+    "name": "Sarah Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801533585721",
+    "email": "sarah.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-005",
+    "name": "Ayesha Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801752249113",
+    "email": "ayesha.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-006",
+    "name": "Mahiya Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801837895257",
+    "email": "mahiya.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-007",
+    "name": "Farzana Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801407562688",
+    "email": "farzana.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-008",
+    "name": "Tariq Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801972396098",
+    "email": "tariq.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-009",
+    "name": "Sumaiya Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801607497154",
+    "email": "sumaiya.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-010",
+    "name": "Sabbir Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Computer Vision",
+    "skills": [
+      "Computer Vision",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Computer Vision",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801814137812",
+    "email": "sabbir.computer@eduvision.edu"
+  },
+  {
+    "id": "241-15-011",
+    "name": "Farzana Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801880197800",
+    "email": "farzana.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-012",
+    "name": "Ayesha Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801300802167",
+    "email": "ayesha.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-013",
+    "name": "Mehedi Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801144931002",
+    "email": "mehedi.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-014",
+    "name": "Nusrat Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801240974389",
+    "email": "nusrat.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-015",
+    "name": "Nusrat Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801165616662",
+    "email": "nusrat.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-016",
+    "name": "Tariq Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801398140857",
+    "email": "tariq.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-017",
+    "name": "Imran Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801979204503",
+    "email": "imran.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-018",
+    "name": "Mehedi Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801220064992",
+    "email": "mehedi.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-019",
+    "name": "Ayesha Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801842430662",
+    "email": "ayesha.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-020",
+    "name": "Mehedi Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Artificial Intelligence",
+    "skills": [
+      "Artificial Intelligence",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Artificial Intelligence",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801708312451",
+    "email": "mehedi.artificial@eduvision.edu"
+  },
+  {
+    "id": "241-15-021",
+    "name": "Arif Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801809312029",
+    "email": "arif.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-022",
+    "name": "Riyad Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801841354609",
+    "email": "riyad.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-023",
+    "name": "Rahim Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801805051304",
+    "email": "rahim.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-024",
+    "name": "Hasan Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801700148048",
+    "email": "hasan.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-025",
+    "name": "Farzana Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801457474878",
+    "email": "farzana.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-026",
+    "name": "Tariq Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801490049895",
+    "email": "tariq.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-027",
+    "name": "Arif Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801491552112",
+    "email": "arif.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-028",
+    "name": "Sadia Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801529659048",
+    "email": "sadia.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-029",
+    "name": "Rahim Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801134047169",
+    "email": "rahim.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-030",
+    "name": "Mahiya Hasan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Machine Learning",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Machine Learning",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801140848944",
+    "email": "mahiya.machine@eduvision.edu"
+  },
+  {
+    "id": "241-15-031",
+    "name": "Rahim Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801769162668",
+    "email": "rahim.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-032",
+    "name": "Hasan Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801177987517",
+    "email": "hasan.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-033",
+    "name": "Tahmina Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801797994297",
+    "email": "tahmina.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-034",
+    "name": "Kamrul Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801359504522",
+    "email": "kamrul.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-035",
+    "name": "Hasan Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801609621293",
+    "email": "hasan.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-036",
+    "name": "Arif Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801407715264",
+    "email": "arif.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-037",
+    "name": "Rahim Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801644895653",
+    "email": "rahim.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-038",
+    "name": "Sadia Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801417890383",
+    "email": "sadia.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-039",
+    "name": "Kamrul Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801489989587",
+    "email": "kamrul.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-040",
+    "name": "Tahmina Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Data Science",
+    "skills": [
+      "Data Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Data Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801406937066",
+    "email": "tahmina.data@eduvision.edu"
+  },
+  {
+    "id": "241-15-041",
+    "name": "Sabbir Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801810321257",
+    "email": "sabbir.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-042",
+    "name": "Farzana Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801954486514",
+    "email": "farzana.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-043",
+    "name": "Sarah Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801193108150",
+    "email": "sarah.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-044",
+    "name": "Imran Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801639155947",
+    "email": "imran.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-045",
+    "name": "Arif Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801251954606",
+    "email": "arif.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-046",
+    "name": "Tahmina Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801936756373",
+    "email": "tahmina.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-047",
+    "name": "Jannat Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801765222135",
+    "email": "jannat.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-048",
+    "name": "Sabbir Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801621919570",
+    "email": "sabbir.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-049",
+    "name": "Jannat Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801387005797",
+    "email": "jannat.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-050",
+    "name": "Nusrat Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Cyber Security",
+    "skills": [
+      "Cyber Security",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Cyber Security",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801472409268",
+    "email": "nusrat.cyber@eduvision.edu"
+  },
+  {
+    "id": "241-15-051",
+    "name": "Arif Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801570492075",
+    "email": "arif.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-052",
+    "name": "Mehedi Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801760978501",
+    "email": "mehedi.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-053",
+    "name": "Sadia Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801289000699",
+    "email": "sadia.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-054",
+    "name": "Hasan Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801329467443",
+    "email": "hasan.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-055",
+    "name": "Nusrat Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801603713099",
+    "email": "nusrat.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-056",
+    "name": "Tariq Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801715762325",
+    "email": "tariq.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-057",
+    "name": "Tariq Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801734238005",
+    "email": "tariq.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-058",
+    "name": "Sadia Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801219872471",
+    "email": "sadia.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-059",
+    "name": "Riyad Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801953881086",
+    "email": "riyad.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-060",
+    "name": "Fahim Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "IoT",
+    "skills": [
+      "IoT",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "IoT",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801525607942",
+    "email": "fahim.iot@eduvision.edu"
+  },
+  {
+    "id": "241-15-061",
+    "name": "Ayesha Khatun",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801481546080",
+    "email": "ayesha.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-062",
+    "name": "Riyad Hasan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801915369248",
+    "email": "riyad.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-063",
+    "name": "Fahim Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801630930315",
+    "email": "fahim.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-064",
+    "name": "Arif Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801880217453",
+    "email": "arif.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-065",
+    "name": "Tahmina Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801736966696",
+    "email": "tahmina.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-066",
+    "name": "Rahim Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801951808956",
+    "email": "rahim.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-067",
+    "name": "Sarah Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801364385150",
+    "email": "sarah.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-068",
+    "name": "Sumaiya Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801281769632",
+    "email": "sumaiya.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-069",
+    "name": "Riyad Hasan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801365104138",
+    "email": "riyad.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-070",
+    "name": "Riyad Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Robotics",
+    "skills": [
+      "Robotics",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Robotics",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801396677151",
+    "email": "riyad.robotics@eduvision.edu"
+  },
+  {
+    "id": "241-15-071",
+    "name": "Rahim Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801301131900",
+    "email": "rahim.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-072",
+    "name": "Sadia Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801789662887",
+    "email": "sadia.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-073",
+    "name": "Arif Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801398721556",
+    "email": "arif.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-074",
+    "name": "Arif Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801302678920",
+    "email": "arif.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-075",
+    "name": "Sadia Chowdhury",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801797738321",
+    "email": "sadia.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-076",
+    "name": "Hasan Uddin",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801652223996",
+    "email": "hasan.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-077",
+    "name": "Imran Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801756760601",
+    "email": "imran.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-078",
+    "name": "Sadia Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801199141130",
+    "email": "sadia.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-079",
+    "name": "Mahiya Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801369936422",
+    "email": "mahiya.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-080",
+    "name": "Rahim Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Agriculture Technology",
+    "skills": [
+      "Agriculture Technology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Agriculture Technology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801672060972",
+    "email": "rahim.agriculture@eduvision.edu"
+  },
+  {
+    "id": "241-15-081",
+    "name": "Sarah Hasan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801295471792",
+    "email": "sarah.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-082",
+    "name": "Tahmina Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801388417101",
+    "email": "tahmina.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-083",
+    "name": "Arif Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801702912093",
+    "email": "arif.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-084",
+    "name": "Rahim Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801647368292",
+    "email": "rahim.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-085",
+    "name": "Ayesha Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801771238069",
+    "email": "ayesha.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-086",
+    "name": "Tariq Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801335687534",
+    "email": "tariq.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-087",
+    "name": "Ayesha Hossain",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801565046859",
+    "email": "ayesha.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-088",
+    "name": "Nusrat Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801605669756",
+    "email": "nusrat.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-089",
+    "name": "Nafisa Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801843824272",
+    "email": "nafisa.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-090",
+    "name": "Arif Khan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Health Science",
+    "skills": [
+      "Health Science",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Health Science",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801870102050",
+    "email": "arif.health@eduvision.edu"
+  },
+  {
+    "id": "241-15-091",
+    "name": "Ayesha Hasan",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801441765351",
+    "email": "ayesha.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-092",
+    "name": "Riyad Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801722150852",
+    "email": "riyad.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-093",
+    "name": "Sarah Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801772311993",
+    "email": "sarah.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-094",
+    "name": "Arif Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801363685078",
+    "email": "arif.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-095",
+    "name": "Kamrul Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801956879390",
+    "email": "kamrul.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-096",
+    "name": "Mahiya Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801745053171",
+    "email": "mahiya.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-097",
+    "name": "Mahiya Islam",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801245978043",
+    "email": "mahiya.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-098",
+    "name": "Fahim Rahman",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801608343045",
+    "email": "fahim.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-099",
+    "name": "Ayesha Ahmed",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801184010825",
+    "email": "ayesha.microbiology@eduvision.edu"
+  },
+  {
+    "id": "241-15-100",
+    "name": "Arif Akter",
+    "department": "CSE",
+    "batch": "15th",
+    "role": "Student",
+    "primaryDomain": "Microbiology",
+    "skills": [
+      "Microbiology",
+      "Python",
+      "Research"
+    ],
+    "researchInterests": [
+      "Microbiology",
+      "Innovation"
+    ],
+    "collaborationAvailability": "High",
+    "phone": "+8801664772580",
+    "email": "arif.microbiology@eduvision.edu"
+  }
+]

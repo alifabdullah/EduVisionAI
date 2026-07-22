@@ -1,0 +1,91 @@
+{
+  "profile": {
+    "id": "AUTH-001",
+    "name": "Prof. Dr. Md. Fokhray Hossain",
+    "email": "dean@daffodilvarsity.edu.bd",
+    "role": "Dean, Faculty of Science and Information Technology",
+    "institution": "Daffodil International University",
+    "avatarInitials": "FH",
+    "avatar": "/images/authority/dean_fokhray.png",
+    "accessLevel": "full"
+  },
+  "universityStats": {
+    "totalStudents": 4820,
+    "totalTeachers": 186,
+    "totalDepartments": 8,
+    "atRiskPercentage": 22,
+    "avgAttendance": 76,
+    "avgGPA": 3.1,
+    "coursesOffered": 94,
+    "activeAlerts": 6
+  },
+  "departments": [
+    { "id": "CSE", "name": "Computer Science & Engineering", "students": 850, "teachers": 38, "avgGPA": 3.2, "avgAttendance": 74, "atRiskCount": 112, "skillScore": 68, "riskLevel": "medium" },
+    { "id": "EEE", "name": "Electrical & Electronic Engineering", "students": 720, "teachers": 32, "avgGPA": 3.0, "avgAttendance": 78, "atRiskCount": 95, "skillScore": 62, "riskLevel": "medium" },
+    { "id": "BBA", "name": "Business Administration", "students": 980, "teachers": 42, "avgGPA": 3.4, "avgAttendance": 82, "atRiskCount": 88, "skillScore": 74, "riskLevel": "low" },
+    { "id": "ARCH", "name": "Architecture", "students": 310, "teachers": 18, "avgGPA": 3.6, "avgAttendance": 88, "atRiskCount": 22, "skillScore": 82, "riskLevel": "low" },
+    { "id": "PHarm", "name": "Pharmacy", "students": 420, "teachers": 22, "avgGPA": 2.9, "avgAttendance": 70, "atRiskCount": 118, "skillScore": 58, "riskLevel": "high" },
+    { "id": "LAW", "name": "Law", "students": 380, "teachers": 16, "avgGPA": 3.1, "avgAttendance": 75, "atRiskCount": 72, "skillScore": 65, "riskLevel": "medium" },
+    { "id": "ENG", "name": "English", "students": 560, "teachers": 10, "avgGPA": 3.5, "avgAttendance": 80, "atRiskCount": 42, "skillScore": 78, "riskLevel": "low" },
+    { "id": "MATH", "name": "Mathematics", "students": 600, "teachers": 8, "avgGPA": 2.8, "avgAttendance": 65, "atRiskCount": 156, "skillScore": 55, "riskLevel": "high" }
+  ],
+  "departmentComparison": [
+    { "dept": "CSE", "performance": 74, "attendance": 74, "atRisk": 13, "teacherEffectiveness": 78, "extracurricular": 65 },
+    { "dept": "EEE", "performance": 70, "attendance": 78, "atRisk": 13, "teacherEffectiveness": 72, "extracurricular": 58 },
+    { "dept": "BBA", "performance": 79, "attendance": 82, "atRisk": 9, "teacherEffectiveness": 82, "extracurricular": 80 },
+    { "dept": "ARCH", "performance": 84, "attendance": 88, "atRisk": 7, "teacherEffectiveness": 86, "extracurricular": 75 },
+    { "dept": "Pharm", "performance": 65, "attendance": 70, "atRisk": 28, "teacherEffectiveness": 68, "extracurricular": 42 },
+    { "dept": "LAW", "performance": 72, "attendance": 75, "atRisk": 19, "teacherEffectiveness": 74, "extracurricular": 60 },
+    { "dept": "ENG", "performance": 81, "attendance": 80, "atRisk": 8, "teacherEffectiveness": 80, "extracurricular": 72 },
+    { "dept": "MATH", "performance": 63, "attendance": 65, "atRisk": 26, "teacherEffectiveness": 65, "extracurricular": 38 }
+  ],
+  "teachers": [
+    { "id": "TCH-001", "name": "Mr. Md. Mehedi Hassan", "dept": "CIS", "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=100&h=100&fit=crop", "courses": 3, "avgImprovement": 18, "courseOutcome": 82, "mentorship": 90, "effectivenessScore": 85 },
+    { "id": "TCH-002", "name": "Mr. Md. Sarwar Hossain Mollah", "dept": "CIS", "avatar": "/images/teachers/sarwar.png", "courses": 3, "avgImprovement": 15, "courseOutcome": 78, "mentorship": 88, "effectivenessScore": 80 },
+    { "id": "TCH-003", "name": "Mr. Md. Nasimul Kader", "dept": "CIS", "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop", "courses": 2, "avgImprovement": 12, "courseOutcome": 74, "mentorship": 70, "effectivenessScore": 72 },
+    { "id": "TCH-004", "name": "Mohammad Azam Khan", "dept": "CIS", "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=100&h=100&fit=crop", "courses": 4, "avgImprovement": 20, "courseOutcome": 88, "mentorship": 92, "effectivenessScore": 90 },
+    { "id": "TCH-005", "name": "Tamanna Akter", "dept": "CIS", "avatar": "/images/teachers/tamanna.png", "courses": 3, "avgImprovement": 8, "courseOutcome": 62, "mentorship": 55, "effectivenessScore": 60 }
+  ],
+  "studentInsights": {
+    "highPerformers": 1240,
+    "averageStudents": 2530,
+    "atRiskStudents": 1050,
+    "commonWeakSubjects": ["Mathematics", "Database Systems", "Organic Chemistry", "Statistics"],
+    "commonWeakSkills": ["Communication", "Leadership"],
+    "firstYearAtRiskPercent": 38,
+    "communicationGapPercent": 38,
+    "leadershipGapPercent": 42
+  },
+  "institutionalAlerts": [
+    { "id": 1, "title": "Critical: Pharmacy Dept At-Risk Surge", "dept": "Pharmacy", "priority": "high", "action": "Launch emergency mentoring and academic support program", "detail": "28% of Pharmacy students are at-risk, highest in the institution." },
+    { "id": 2, "title": "Mathematics Attendance Crisis", "dept": "Mathematics", "priority": "high", "action": "Review attendance policy and assign counselors", "detail": "Average attendance in Mathematics dropped to 65% this semester." },
+    { "id": 3, "title": "Communication Skill Gap Across Campus", "dept": "Institution-wide", "priority": "medium", "action": "Organize campus-wide communication workshops", "detail": "38% of first-year students show below-average communication scores." },
+    { "id": 4, "title": "CSE Data Structures Performance Drop", "dept": "CSE", "priority": "medium", "action": "Provide academic support and extra sessions", "detail": "CSE Data Structures average marks fell 8% compared to last semester." },
+    { "id": 5, "title": "Teacher Support Needed: Mathematics", "dept": "Mathematics", "priority": "medium", "action": "Arrange professional development and peer mentoring for faculty", "detail": "Mathematics teacher effectiveness score is lowest at 55%." },
+    { "id": 6, "title": "Leadership Development Gap", "dept": "Institution-wide", "priority": "low", "action": "Promote student club leadership roles and workshops", "detail": "42% of students scored below average in leadership skills." }
+  ],
+  "strategicSuggestions": [
+    { "id": 1, "problem": "High at-risk percentage in Pharmacy (28%)", "suggestion": "Launch a structured Academic Recovery Program for Pharmacy with dedicated counselors and weekly progress tracking.", "priority": "high", "impact": "Reduce at-risk count by 40% within one semester" },
+    { "id": 2, "problem": "Communication skill gap (38% of students)", "suggestion": "Mandate a 4-week Communication Skills Workshop for all first-year students across departments.", "priority": "high", "impact": "Improve communication scores by 20% across cohort" },
+    { "id": 3, "problem": "Mathematics attendance at 65%", "suggestion": "Review and enforce attendance policy with automated alerts. Assign student counselors to Mathematics department.", "priority": "high", "impact": "Bring attendance above 75% threshold within 6 weeks" },
+    { "id": 4, "problem": "Low teacher effectiveness in Pharmacy & Mathematics", "suggestion": "Initiate faculty development program with peer observation and teaching methodology workshops.", "priority": "medium", "impact": "Improve teaching effectiveness scores by 15%" },
+    { "id": 5, "problem": "Leadership gap in 42% of students", "suggestion": "Create a Leadership Incubator Program with structured club leadership tracks and industry mentorship.", "priority": "medium", "impact": "Increase leadership scores 25% over two semesters" }
+  ],
+  "courseHealth": [
+    { "course": "Data Structures", "dept": "CSE", "avgPerformance": 58, "failureRisk": "high", "attendance": 69, "engagement": 62 },
+    { "course": "Organic Chemistry", "dept": "Pharmacy", "avgPerformance": 54, "failureRisk": "high", "attendance": 65, "engagement": 58 },
+    { "course": "Advanced Mathematics", "dept": "Math", "avgPerformance": 52, "failureRisk": "high", "attendance": 60, "engagement": 55 },
+    { "course": "Business Communication", "dept": "BBA", "avgPerformance": 82, "failureRisk": "low", "attendance": 88, "engagement": 85 },
+    { "course": "Architectural Design", "dept": "ARCH", "avgPerformance": 86, "failureRisk": "low", "attendance": 91, "engagement": 90 },
+    { "course": "Database Systems", "dept": "CSE", "avgPerformance": 61, "failureRisk": "medium", "attendance": 72, "engagement": 68 }
+  ],
+  "skillOverview": {
+    "universityAvg": { "Communication": 61, "Leadership": 55, "Teamwork": 72, "Critical Thinking": 68, "Problem Solving": 70 },
+    "byDepartment": [
+      { "dept": "CSE", "Communication": 58, "Leadership": 60, "Teamwork": 70, "Critical Thinking": 78, "Problem Solving": 80 },
+      { "dept": "BBA", "Communication": 78, "Leadership": 75, "Teamwork": 82, "Critical Thinking": 68, "Problem Solving": 65 },
+      { "dept": "ARCH", "Communication": 72, "Leadership": 68, "Teamwork": 85, "Critical Thinking": 80, "Problem Solving": 75 },
+      { "dept": "Pharm", "Communication": 55, "Leadership": 42, "Teamwork": 62, "Critical Thinking": 60, "Problem Solving": 58 }
+    ]
+  }
+}
